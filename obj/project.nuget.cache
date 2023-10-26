@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZUYG2/uWZqtFU4fpdFA2jEGwmo3iyZwEPM0AnyfNinXUFCaBNDxvZTR0TrLtgLqzNGUVeb3kHolHDTI6i9joOQ==",
+  "dgSpecHash": "69sLMXucxSa9qg8DSwMCGa4EgXQ2VLTXptnBiOvFAg3f9qimqUWuxf0qkIPh4OD4Y3RnH+xdzW2KpQSTvbBJhA==",
   "success": true,
   "projectFilePath": "D:\\restApi-asp-core\\netcore_api\\netcore_api.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "C:\\Users\\SERVER\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.13\\microsoft.entityframeworkcore.abstractions.7.0.13.nupkg.sha512",
     "C:\\Users\\SERVER\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.13\\microsoft.entityframeworkcore.analyzers.7.0.13.nupkg.sha512",
     "C:\\Users\\SERVER\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.13\\microsoft.entityframeworkcore.design.7.0.13.nupkg.sha512",
+    "C:\\Users\\SERVER\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\7.0.13\\microsoft.entityframeworkcore.inmemory.7.0.13.nupkg.sha512",
     "C:\\Users\\SERVER\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.13\\microsoft.entityframeworkcore.relational.7.0.13.nupkg.sha512",
     "C:\\Users\\SERVER\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.13\\microsoft.entityframeworkcore.sqlserver.7.0.13.nupkg.sha512",
     "C:\\Users\\SERVER\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
