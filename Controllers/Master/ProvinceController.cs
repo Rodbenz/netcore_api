@@ -18,7 +18,7 @@ public class ProvinceController : ControllerBase
         _dbContext = dbContext;
         _configuration = configuration;
     }
-    [HttpGet("mas/province")]
+    [HttpGet]
     public IEnumerable<PROVINCE> Get()
     {
         return _dbContext.Province.ToList();
@@ -48,7 +48,7 @@ public class ProvinceController : ControllerBase
 
     public class UpdateProvince
     {
-        public string NAMENE { get; set; }
+        public string? NAMENE { get; set; }
     }
 
 
